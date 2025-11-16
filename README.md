@@ -1,14 +1,14 @@
 # Hi there, I'm Shaurya Bhardwaj 👋
 
-## 🚀 About Me
+## About Me
 
-- 🌱 I’m currently learning **Backend Development**
-- 🤖 I find **Deep Learning** fascinating.
-- 💬 I enjoy working with data.
-- 📫 How to reach me: [sbhardwaj_be22@thapar.edu]
-- ⚡ I enjoy working on optimization projects and collaborating with other developers.
+- I’m currently learning **Backend Development**
+- I find **Deep Learning** fascinating.
+- I enjoy working with data.
+- How to reach me: [sbhardwaj_be22@thapar.edu]
+- I enjoy working on optimization projects and collaborating with other developers.
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,20 +35,20 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorboard&logoColor=white)
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-bhardwaj/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bshaurya.me@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Witcape/)
 
 
-## 🎮 Hobbies and Interests
+## Hobbies and Interests
 
-- Software Development 🖥️ 
-- Backend 💻
-- Machine Learning/Deep Learning 🤖
-- Data 📖
-- Volleyball 🏐 
-- Adventure 🏕️ 
-- Music 🎵
-- Traveling ✈️
+- Software Development 
+- Backend 
+- Machine Learning/Deep Learning 
+- Data 
+- Volleyball 
+- Adventure  
+- Music 
+- Traveling ️
